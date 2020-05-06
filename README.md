@@ -42,8 +42,8 @@ _No known bugs at this time_
 
 ## Specs
 --wins? method----------------
-| **spec 1: returns true if rock is the object and scissors is the argument**| |
-| **spec 2: returns false if rock is the object and paper is the argument**| |
+| **spec 1: returns true if rock is the hand1 and scissors is the hand2**| |
+| **spec 2: returns false if rock is the hand1 and paper is the hand2**| |
 | **spec 3: returns true if paper is the object and rock is the argument**| |
 | **spec 4: returns false if paper is the object and scissors is the argument**| |
 | **spec 5: returns true if scissors is the object and paper is the argument**| |
